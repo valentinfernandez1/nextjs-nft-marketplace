@@ -49,7 +49,8 @@ const main = async (){
       ],
       "name": "ItemListed",
       "type": "event"
-    }
+    },
+    tableName: "ItemListed"
   }
 }
 
